@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi, I'm YOUR NAME</h1>
 <h3 align="center">CISO @ Accesco · Security Engineer · Creative Lead</h3>
 
 <p align="center">
@@ -12,13 +12,13 @@
 
 ---
 
-### 🛡️ About Me
-- 🔐 **Chief Information Security Officer** at **Accesco**, building secure, scalable infrastructure for quick commerce
-- 🕵️ Background in **penetration testing**: web, mobile, API and cloud (OWASP-based)
-- 🎬 **Board Member & Video Editor** at **TEDxNHCE**; Graphics & Media Head at **QuantumX'26**
-- 💻 Former **Web Developer Intern** at **Plasmid** (HTML, CSS, Tailwind)
+### About Me
+- **Chief Information Security Officer** at **Accesco**, building secure, scalable infrastructure for quick commerce
+- Background in **penetration testing**: web, mobile, API and cloud (OWASP-based)
+- **Board Member & Video Editor** at **TEDxNHCE**; Graphics & Media Head at **QuantumX'26**
+- Former **Web Developer Intern** at **Plasmid** (HTML, CSS, Tailwind)
 
-### 💼 Experience
+### Experience
 | Role | Organization | Period |
 |---|---|---|
 | Chief Information Security Officer | Accesco | Feb 2026 – Present |
@@ -28,7 +28,31 @@
 | Graphics & Media Head | QuantumX'26 | Nov 2025 – Mar 2026 |
 | Web Developer Intern | Plasmid | Dec 2024 – Feb 2025 |
 
-### 🧰 Tools & Tech
+### Tools & Tech
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,aws,docker,html,css,tailwind,js,react,git,github,figma,ps,pr&perline=8" />
 </p>
+
+### Featured Projects
+| Project | Description |
+|---|---|
+| [Universal File Converter](https://github.com/shaktiprasaddd15-web/universal-file-converter) | Convert files between formats in one place |
+| [Resume Builder AI](https://github.com/shaktiprasaddd15-web/resume_builder_ai) | AI-assisted resume generator (JavaScript) |
+| [ERP](https://github.com/shaktiprasaddd15-web/erp) | ERP system web interface (HTML) |
+
+### GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shaktiprasaddd15-web&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktiprasaddd15-web&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shaktiprasaddd15-web&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaktiprasaddd15-web&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+<p align="center">Thanks for visiting!</p>
