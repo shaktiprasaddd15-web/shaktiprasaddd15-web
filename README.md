@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm YOUR NAME</h1>
+<h1 align="center">Hi, I'm Shakti Prasad Muduli</h1>
 <h3 align="center">CISO @ Accesco · Security Engineer · Creative Lead</h3>
 
 <p align="center">
@@ -36,23 +36,4 @@
 ### Featured Projects
 | Project | Description |
 |---|---|
-| [Universal File Converter](https://github.com/shaktiprasaddd15-web/universal-file-converter) | Convert files between formats in one place |
-| [Resume Builder AI](https://github.com/shaktiprasaddd15-web/resume_builder_ai) | AI-assisted resume generator (JavaScript) |
-| [ERP](https://github.com/shaktiprasaddd15-web/erp) | ERP system web interface (HTML) |
-
-### GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shaktiprasaddd15-web&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktiprasaddd15-web&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shaktiprasaddd15-web&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaktiprasaddd15-web&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-<p align="center">Thanks for visiting!</p>
+| [Universal File Converter](https://github.com/shaktiprasaddd15-web/universal-file-
